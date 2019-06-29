@@ -1,6 +1,4 @@
 ﻿
-// Script by Clément Audras 2019 - Game/Level Design Portfolio: www.clementaudras.com
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
